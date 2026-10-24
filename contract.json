@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.monitor.v1",
+    "identity": "100048777766367/monitor",
+    "archetype": "FLEET_HOMEOSTASIS",
+    "role": "TELEMETRY_CLOSED_LOOP",
+    "network_partners": {
+        "release": "100048777766367/release",
+        "storage": "100048777766367/storage"
+    },
+    "io_specification": "I/O (TELEMETRY_CLOSED_LOOP)"
+}
